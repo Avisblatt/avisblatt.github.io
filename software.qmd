@@ -1,0 +1,18 @@
+---
+title: "Software"
+---
+
+## R Package Repository
+
+
+
+## Analysis Repository
+
+
+## Transkribus Interface
+
+
+## Publications
+
+Could be a separate menu item 
+

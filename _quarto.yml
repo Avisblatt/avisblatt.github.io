@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Printed Markets - The Basel Avisblatt (1729-1845)"
+  navbar:
+    search: true
+    background: '#D8C8A7'
+    left:
+#      - href: index.qmd
+ #       text: Home
+      - href: software.qmd
+        text: Software
+      - href: data.qmd
+        text: Data
+      - href: contact.qmd
+        text: Contact
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
