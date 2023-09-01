@@ -1,0 +1,19 @@
+---
+title: "Software & Data"
+---
+
+The Avisblatt project makes data from Switzerland's first advertising journal available under a Creative Commons license and publishes open source software to facilitate analysis and reproduce analysis of these data. 
+
+
+## Data: Machine Friendly, OCR'd Ad Level Text Data
+
+- GitHub: https://github.com/avisblatt/avisdata
+- Zenodo: [![DOI](https://zenodo.org/badge/599301403.svg)](https://zenodo.org/badge/latestdoi/599301403)
+
+
+## Software:
+
+- the avisblatt R package Read & Process Data from Printed Markets - The Basel Avisblatt (1729-1845): https://github.com/Avisblatt/avisblatt 
+
+
+

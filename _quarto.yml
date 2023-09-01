@@ -9,10 +9,8 @@ website:
     left:
 #      - href: index.qmd
  #       text: Home
-      - href: software.qmd
-        text: Software
-      - href: data.qmd
-        text: Data
+      - href: software-data.qmd
+        text: Software & Data
       - href: contact.qmd
         text: Contact
         
