@@ -1,58 +1,37 @@
 [
   {
+    "objectID": "software-data.html",
+    "href": "software-data.html",
+    "title": "Software & Data",
+    "section": "",
+    "text": "The Avisblatt project makes data from Switzerland’s first advertising journal available under a Creative Commons license and publishes open source software to facilitate analysis and reproduce analysis of these data."
+  },
+  {
+    "objectID": "software-data.html#data-machine-friendly-ocrd-ad-level-text-data",
+    "href": "software-data.html#data-machine-friendly-ocrd-ad-level-text-data",
+    "title": "Software & Data",
+    "section": "Data: Machine Friendly, OCR’d Ad Level Text Data",
+    "text": "Data: Machine Friendly, OCR’d Ad Level Text Data\n\nGitHub: https://github.com/avisblatt/avisdata\nZenodo:"
+  },
+  {
+    "objectID": "software-data.html#software",
+    "href": "software-data.html#software",
+    "title": "Software & Data",
+    "section": "Software:",
+    "text": "Software:\n\nthe avisblatt R package Read & Process Data from Printed Markets - The Basel Avisblatt (1729-1845): https://github.com/Avisblatt/avisblatt"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "University of Basel  Department of History  Hirschgässlein 21  4051 Basel  Switzerland\nTel.: +41 61 207 46 50  E-Mail: avisblatt-geschichte@unibas.ch"
+    "text": "Prof. Dr. Susanna Burghartz University of Basel  Department of History  Hirschgässlein 21  4051 Basel  Switzerland\nTel.: +41 61 207 46 50  E-Mail: avisblatt-geschichte@unibas.ch"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Printed Markets - The Basel Avisblatt (1729-1845)",
     "section": "",
-    "text": "“Printed Markets” is a Swiss research project (see also avisblatt.ch) on a new form of marketplace that emerged in Europe during the seventeenth and, for the most part, in the eighteenth century: the printed advertising market of the so-called “Intelligenzblätter” (intelligencers). Using the example of the Basel Avisblatt (published 1729-1844/45), “Printed Markets” employs digital history and data science methods to systematically open up an extensive serial source, to shine a light on the socioeconomic transformations of the “Sattelzeit”: The Avisblatt reflects myriads of ways to organise economic exchange, to interlink persons of complementary interests, to spin the socioeconomic web of a town in transition, from early modernity to the industrial age."
-  },
-  {
-    "objectID": "index.html#digital-history-digital-history",
-    "href": "index.html#digital-history-digital-history",
-    "title": "Printed Markets - The Basel Avisblatt (1729-1845)",
-    "section": "Digital History & Digital History",
-    "text": "Digital History & Digital History\n“Printed Markets” is a project of the Department of History at the University of Basel and is financed by the Swiss National Science Foundation SNSF. The project is led by Prof. Dr. Susanna Burghartz."
-  },
-  {
-    "objectID": "software.html#analysis-repository",
-    "href": "software.html#analysis-repository",
-    "title": "Software",
-    "section": "Analysis Repository",
-    "text": "Analysis Repository"
-  },
-  {
-    "objectID": "software.html#transkribus-interface",
-    "href": "software.html#transkribus-interface",
-    "title": "Software",
-    "section": "Transkribus Interface",
-    "text": "Transkribus Interface"
-  },
-  {
-    "objectID": "software.html#publications",
-    "href": "software.html#publications",
-    "title": "Software",
-    "section": "Publications",
-    "text": "Publications\nCould be a separate menu item"
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "refer to data on github\nexplain how to read data from github, refer to package documentation\ncontextualize the source, i.e., target group, contribution of the project\nexplain tagging, procedure"
-  },
-  {
-    "objectID": "data.html#raw-data-scans",
-    "href": "data.html#raw-data-scans",
-    "title": "Data",
-    "section": "Raw Data (Scans)",
-    "text": "Raw Data (Scans)\n\nrefer to freizo etc.\ncontextualize the source, i.e., target group, contribution of the project\nupcoming data repo plans\nrefer to transkribr approach"
+    "text": "Switzerland’s first advertising journal – the so-called Avisblatt – was published in Basel. It is a typical example of a new market form emerging in 18th century Europe, yet it is also exceptional since all issues from 1729 to 1844/45 are preserved. In the SNF funded research project “Märkte auf Papier” at the University of Basel (PI: Prof. Dr. Susanna Burghartz), this serial source has been digitized and used to investigate economic, social and societal transformations of the early capitalist period in Basel. A database of all adverts and announcements was created, totalling 932’000 records and providing different sorts of metadata for each advert. Combined with open source analytical tools, the avisblatt project makes this dataset available.\nThe Avisblatt project was funded by a grant of the Swiss National Science Foundation (SNSF): Märkte auf Papier. Informationen, Daten und Nachrichten im Basler ‘Avisblatt’, 1729-1845 (Grant No.: 100011_182156)"
   }
 ]

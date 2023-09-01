@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://Avisblatt.github.io/avisblatt.github.io/software-data.html</loc>
+    <lastmod>2023-09-01T05:29:00.973Z</lastmod>
+  </url>
+  <url>
     <loc>https://Avisblatt.github.io/avisblatt.github.io/contact.html</loc>
-    <lastmod>2023-01-30T13:27:08.000Z</lastmod>
+    <lastmod>2023-09-01T05:29:01.263Z</lastmod>
   </url>
   <url>
     <loc>https://Avisblatt.github.io/avisblatt.github.io/index.html</loc>
-    <lastmod>2023-01-30T13:27:08.302Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Avisblatt.github.io/avisblatt.github.io/software.html</loc>
-    <lastmod>2023-01-30T13:27:08.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Avisblatt.github.io/avisblatt.github.io/data.html</loc>
-    <lastmod>2023-01-30T13:27:08.861Z</lastmod>
+    <lastmod>2023-09-01T05:29:01.541Z</lastmod>
   </url>
 </urlset>
